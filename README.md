@@ -1,16 +1,19 @@
-### Hi there 👋
+Esse é o meu Perfil! 🙆
 
-<!--
-**ViniciusGBSilva1/ViniciusGBSilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é, Vinicius G. B. Silva.
 
-Here are some ideas to get you started:
+- Estou realizando um projeto escolar através do ALURA. 📽️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou desenvolvendo na linguagem JavaScript. 💻
+
+- Utilizo/Utilizarei esse local para organizar e compartilhar meus projetos desenvolvidos. 🛞
+
+
+COMO ENTRAR EM CONTATO? 📧
+
+Você pode entrar em contato comigo através do email. 🛎️
+
+-  🥇 Pessoal: viniciusgbs04@gmail.com
+-  💈 Escolar: 00001111542855sp@al.educacao.sp.gov.br
+
+✅ @ViniciusGBSilva1 -
